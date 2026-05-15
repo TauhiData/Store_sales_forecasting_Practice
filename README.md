@@ -39,4 +39,5 @@ This step helped highlight where the business is performing well and where there
 
  ## Tools Used
 Excel – data cleaning and preparation
+
 Power BI – data visualisation and dashboard building
