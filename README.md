@@ -1,4 +1,4 @@
-# Store_sales_forecasting_Practice
+# Store_sales_Forecasting_Practice
 This project looks at historical sales data from a global superstore to understand how the business performs across products, regions, and customer segments. It also includes a basic 7-day sales forecast based on recent trends.
 
 The aim was to take raw data, clean and explore it, and turn it into something meaningful through insights and an interactive dashboard built in Power BI.
